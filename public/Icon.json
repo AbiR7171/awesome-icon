@@ -1,0 +1,222 @@
+[
+    {
+        "id":1,
+        "icon":"ion:home",
+        "name":"Home",
+        "category":"classic",
+        "sideCategory":"regular",
+        "html":"<i class='fa-solid fa-house'></i>",
+        "react":"<FontAwesomeIcon icon={faHouse} />"
+
+    },
+    
+    {
+        "id":2,
+        "icon":"ic:sharp-room",
+        "name":"Room",
+        "category":"sharps",
+        "sideCategory":"regular",
+        "html":"<i class='fa-sharp fa-solid fa-location-dot'></i>",
+        "react":"<FontAwesomeIcon icon={faLocationDot} />"
+
+    },
+    
+    {
+        "id":3,
+        "icon":"material-symbols:menu",
+        "name":"Menu",
+        "category":"brands",
+        "sideCategory":"regular",
+        "html":"<i class='fa-sharp fa-solid fa-bars'></i>",
+        "react":"<FontAwesomeIcon icon='fa-sharp fa-solid fa-bars' />"
+
+    },
+    
+    {
+        "id":4,
+        "icon":"carbon:music",
+        "name":"Music",
+        "category":"free",
+        "sideCategory":"regular",
+        "html":"<i class='fa-sharp fa-regular fa-music'></i>",
+        "react":"<FontAwesomeIcon icon={faMusic} />"
+
+    },
+    
+    {
+        "id":5,
+        "icon":"iconamoon:profile-fill",
+        "name":"Profile",
+        "category":"classic",
+        "sideCategory":"regular",
+        "html":"<i class='fa-sharp fa-solid fa-user'></i>",
+        "react":"<FontAwesomeIcon icon={faUser} />"
+
+    },
+    
+    {
+        "id":6,
+        "icon":"ion:home",
+        "name":"Home",
+        "category":"sharps",
+        "sideCategory":"regular",
+        "html":"<i class='fa-solid fa-house'></i>",
+        "react":"<FontAwesomeIcon icon={faHouse} />"
+
+    },
+    
+    {
+        "id":7,
+        "icon":"ph:car-profile-thin",
+        "name":"Car",
+        "category":"brands",
+        "sideCategory":"regular",
+        "html":"<i class='fa-solid fa-car'></i>",
+        "react":"<FontAwesomeIcon icon={faCar} />"
+
+    },
+    
+    {
+        "id":8,
+        "icon":"el:group",
+        "name":"Group",
+        "category":"brands",
+        "sideCategory":"regular",
+        "html":"<i class='fa-solid fa-people-group'></i>",
+        "react":"<FontAwesomeIcon icon={faPeopleGroup} />"
+
+    },
+    
+    {
+        "id":9,
+        "icon":"mingcute:chess-fill",
+        "name":"Mingcute Chese",
+        "category":"free",
+        "sideCategory":"regular",
+        "html":"<i class='fa-solid fa-chess-knight'></i>",
+        "react":"<FontAwesomeIcon icon={faChessKnight} />"
+
+    },
+    
+    {
+        "id":10,
+        "icon":"game-icons:chess-king",
+        "name":"Chese King",
+        "category":"classic",
+        "sideCategory":"regular",
+        "html":"<i class='fa-regular fa-chess-king'></i>",
+        "react":"<FontAwesomeIcon icon={faChessKing} />"
+
+    },
+    
+    {
+        "id":11,
+        "icon":"fa6-solid:chess-rook",
+        "name":"Chess rook",
+        "category":"sharps",
+        "sideCategory":"solid",
+        "html":"<i class='fa-solid fa-chess-rook'></i>",
+        "react":"<FontAwesomeIcon icon={faChessRook} />"
+
+    },
+    
+    {
+        "id":12,
+        "icon":"noto:chess-pawn",
+        "name":"Chess pawn",
+        "category":"brands",
+        "sideCategory":"solid",
+        "html":"<i class='fa-solid fa-chess-pawn'></i>",
+        "react":"<FontAwesomeIcon icon={faChessPawn} />"
+
+    },
+    
+    {
+        "id":13,
+        "icon":"bxs:chess",
+        "name":"Chess box",
+        "category":"free",
+        "sideCategory":"solid",
+        "html":"<i class='fa-solid fa-chess-board'></i>",
+        "react":"<FontAwesomeIcon icon={faChessBoard} />"
+
+    },
+    
+    {
+        "id":14,
+        "icon":"solar:football-bold-duotone",
+        "name":"Football",
+        "category":"classic",
+        "sideCategory":"solid",
+        "html":"<i class='fa-solid fa-futbol'></i>",
+        "react":"<FontAwesomeIcon icon={faFutbol} />"
+
+    },
+    
+    {
+        "id":15,
+        "icon":"bx:cricket-ball",
+        "name":"Cricket",
+        "category":"sharps",
+        "sideCategory":"solid",
+        "html":"<i class='fa-solid fa-volleyball'></i>",
+        "react":"<FontAwesomeIcon icon={faVolleyball} />"
+
+    },
+    
+    {
+        "id":16,
+        "icon":"game-icons:wine-glass",
+        "name":"Glass",
+        "category":"brands",
+        "sideCategory":"solid",
+        "html":"<i class='fa-solid fa-martini-glass'></i>",
+        "react":"<FontAwesomeIcon icon={faMartiniGlass} />"
+
+    },
+    
+    {
+        "id":17,
+        "icon":"ph:sun",
+        "name":"Sun",
+        "category":"free",
+        "sideCategory":"solid",
+        "html":"<i class='fa-solid fa-sun'></i>",
+        "react":"<FontAwesomeIcon icon={faSun} />"
+
+    },
+    
+    {
+        "id":18,
+        "icon":"material-symbols:rocket",
+        "name":"Rocket",
+        "category":"classic",
+        "sideCategory":"solid",
+        "html":"<i class='fa-solid fa-rocket'></i>",
+        "react":"<FontAwesomeIcon icon={faRocket} />"
+
+    },
+    
+    {
+        "id":19,
+        "icon":"mdi:hear",
+        "name":"Hear",
+        "category":"sharps",
+        "sideCategory":"solid",
+        "html":"<i class='fa-solid fa-heart'></i>",
+        "react":"<FontAwesomeIcon icon={faHeart} />"
+
+    },
+    
+    {
+        "id":20,
+        "icon":"bi:tv",
+        "name":"Tv",
+        "category":"classic",
+        "sideCategory":"solid",
+        "html":"<i class='fa-solid fa-tv'></i>",
+        "react":"<FontAwesomeIcon icon={faTv} />"
+
+    }
+
+]
