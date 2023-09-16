@@ -1,5 +1,6 @@
 import React from 'react';
 import { Icon } from '@iconify/react';
+import IconPage from './IconPage';
 
 const MainPage = () => {
     return (
@@ -8,7 +9,7 @@ const MainPage = () => {
             <section className='container mx-auto px-32 mt-20 flex justify-around items-center gap-32'>
  
                     <section className='flex gap-20'>
-                    <div className='hover:border-b-4 border-sky-700 text-black hover:text-sky-800'>
+                    <div className='hover:border-b-4  border-sky-700 text-black hover:text-sky-800'>
                           <p className='text-4xl text-black hover:text-sky-800'><Icon icon="game-icons:love-song" /></p>
                           <p className='font-primary  font-bold'>Classic</p>
                      </div>
@@ -71,7 +72,7 @@ const MainPage = () => {
             </section> 
 
 
-            
+            <IconPage/>
 
             
         </div>

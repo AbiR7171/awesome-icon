@@ -199,7 +199,7 @@
     
     {
         "id":19,
-        "icon":"mdi:hear",
+        "icon":"material-symbols:rocket",
         "name":"Hear",
         "category":"sharps",
         "sideCategory":"solid",
